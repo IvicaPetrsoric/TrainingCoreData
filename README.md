@@ -1,6 +1,6 @@
 # TrainingCoreData
 
-Company-Employee app for exploring workflow of CoreData.
+Company-Employee App for exploring workflow of CoreData.
 
 #
 Company screen:
