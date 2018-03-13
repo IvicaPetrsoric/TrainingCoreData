@@ -19,11 +19,11 @@ Employees screen:
  <img src="images/employees.png" widht= 150 height = 300  hspace="30" />  <img src="images/employeesAdd.png" widht= 150 height = 300  hspace="30" />
 #
 Core Features:
-- AutoLayout with code
-- Implementing CRUD (Create, Reed, Update, Delete) in CoreData
-- CoreData migration (v1 to v1.5/2 etc, update attribute type)
-- Parsing JSON into CoreData
-- Multithreading
+- autoLayout with code
+- implementing CRUD (Create, Reed, Update, Delete) in CoreData
+- coreData migration (v1 to v1.5/2 etc, update attribute type)
+- parsing JSON into CoreData
+- multithreading
 
 
 
